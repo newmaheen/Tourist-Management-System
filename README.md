@@ -1,10 +1,10 @@
 # Title  
 Tourist-Management-System
-# Prerequisites
+## Prerequisites
 NetBeans, MySQL etc.
-# Running the tests
+## Running the tests
 Run automated by netbeans.
-# Versioning
+## Versioning
 It is first testing version. 
-# History
+## History
 This is a class project. It is done according to course curriculum.
